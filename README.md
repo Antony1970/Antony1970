@@ -10,6 +10,7 @@
 
 <div align="left">
   <img align="center" alt="python logo" height="30" width ="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="logo" height="30" width ="30" src="https://cdn.freebiesupply.com/logos/large/2x/mathematica-1-logo-png-transparent.png" />
      
 </div>
 
